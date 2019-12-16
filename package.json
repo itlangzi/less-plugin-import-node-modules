@@ -1,0 +1,23 @@
+{
+  "name": "less-plugin-import-node-modules",
+  "version": "1.0.0",
+  "description": "Use '~' to quickly import css/less files under node_modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "less plugin",
+    "less node_modules"
+  ],
+  "author": "Lang zi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itlangzi/less-plugin-import-node-modules.git"
+  },
+  "bugs": {
+    "url": "https://github.com/itlangzi/less-plugin-import-node-modules/issues"
+  },
+  "homepage": "https://github.com/itlangzi/less-plugin-import-node-modules#readme"
+}
